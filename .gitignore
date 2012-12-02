@@ -1,3 +1,5 @@
 data/**
 facedata.xml
 train.txt
+out_eigenfaces.bmp
+out_averageImage.bmp
